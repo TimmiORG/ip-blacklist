@@ -12,9 +12,7 @@ rm -f all.list.use
 echo "Starting Refreshing of Blacklists into ./tmp" 
 while read link; do 
 	echo "Downloading $link as list: $ListNumber ......"
-	#curl --silent --compressed --output ./tmp/$ListNumber.list $link
-	#curl --output ./tmp/$ListNumber.list $link
-	wget --timeout=10 --output-document=./tmp/$ListNumber.list $link
+	wget --quiet --timeout=10 --output-document=./tmp/$ListNumber.list $link
 	if [ $? != 0 ]; then
 		echo "Download of $link failed"
 	fi
@@ -36,11 +34,16 @@ cat blacklist >> ./tmp/all.list
 echo "Unique IPs"
 sort ./tmp/all.list | uniq > ./tmp/all.list.uniq
 
-
-
 echo "Removing IPs from whitelist"
 grep -v -f whitelist ./tmp/all.list.uniq > all.list.use
 
+
 # Delete tmp file
 rm -rf ./tmp/*
+
+
+echo "Commiting to github.com"
+git add .
+git commit -m "Daily Update of Blacklist"
+git push
 
