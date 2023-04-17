@@ -4,10 +4,13 @@
 8.8.4.4 ; Google DNS
 8.8.8.8 ; Google DNS
 10.0.0.0/8 ; Private IP
+13.107.42.14 ; Microsoft Update
 13.107.138.8 ; Microsoft Update
+20.47.115.78 ; Microsoft
 172.16.0.0/12 ; Private IP
 192.168.0.0/16 ; Private IP
 192.168.0.2 ; Private IP
+139.47.0.0/16 ; used by customers
 140.82.121.3 ; github.com
 140.82.121.4 ; github.com
 137.226.34.46 ; ftp.halifax.rwth-aachen.de
