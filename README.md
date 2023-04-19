@@ -2,7 +2,7 @@
 IP Blacklist
 
 automatic generated IP blacklist for our OPNsense firewall.
-List will be updated every 12h.
+List will be updated every 4h.
 
 Duplicates and all blocked Subnets have been removed from the input lists.
 
