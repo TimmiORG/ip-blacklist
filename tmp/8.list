@@ -1,7 +1,7 @@
-; Spamhaus EDROP List 2023/04/22 - (c) 2023 The Spamhaus Project
+; Spamhaus EDROP List 2023/04/23 - (c) 2023 The Spamhaus Project
 ; https://www.spamhaus.org/drop/edrop.txt
 ; Last-Modified: Fri, 21 Apr 2023 21:18:29 GMT
-; Expires: Sun, 23 Apr 2023 21:20:27 GMT
+; Expires: Mon, 24 Apr 2023 01:21:06 GMT
 5.105.62.0/24 ; SBL619555
 5.105.76.0/24 ; SBL618631
 5.105.101.0/24 ; SBL618063
