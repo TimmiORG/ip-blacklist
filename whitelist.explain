@@ -19,10 +19,11 @@
 172.16.0.0/12 ; Private IP
 192.168.0.0/16 ; Private IP
 192.168.0.2 ; Private IP
+137.226.34.46 ; ftp.halifax.rwth-aachen.de
 139.47.0.0/16 ; used by customers
 140.82.121.3 ; github.com
 140.82.121.4 ; github.com
-137.226.34.46 ; ftp.halifax.rwth-aachen.de
+142.250.74.14 ; google.com
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
 161.232.0.0/16 ; e.g. skype.com
