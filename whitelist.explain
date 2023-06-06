@@ -32,6 +32,8 @@
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
 161.232.0.0/16 ; e.g. skype.com
+162.159.133.233 ; Discord
+162.159.135.233 ; Discord
 185.199.108.133 ; github.com 
 185.199.110.133 ; github.com
 185.199.111.133 ; github.com
