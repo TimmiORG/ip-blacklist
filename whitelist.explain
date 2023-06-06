@@ -6,6 +6,7 @@
 10.0.0.0/8 ; Private IP
 13.107.42.14 ; Microsoft Update
 13.107.138.8 ; Microsoft Update
+13.107.136.8 ; Microsoft sharepoint
 20.47.115.78 ; Microsoft
 20.47.97.238 ; miui / xiaomi.com updates
 34.107.165.5 ; atlas.samsung.com
@@ -14,6 +15,7 @@
 40.70.161.102 : mobile.azure.com 
 52.113.194.132 ; Microsoft Teams
 52.232.209.85 ; cloudapp.azure.com 
+52.42.214.215 ; firefox account
 95.216.0.0/15 ; e.g. Nextcloud
 144.76.138.23 ; europe.pool.ntp.org 
 172.16.0.0/12 ; Private IP
@@ -25,6 +27,8 @@
 140.82.121.4 ; github.com
 142.250.74.14 ; google.com
 142.250.74.78 ; google.com
+142.250.181.202 ; google.com
+142.251.209.138 ; google.com
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
 161.232.0.0/16 ; e.g. skype.com
