@@ -9,8 +9,10 @@
 13.107.136.8 ; Microsoft sharepoint
 20.47.115.78 ; Microsoft
 20.47.97.238 ; miui / xiaomi.com updates
+34.98.74.57 ; spotify.com
 34.107.165.5 ; atlas.samsung.com
 34.117.65.55 ; push.services.mozilla.com 
+34.158.0.131 ; spotify.com
 40.70.161.7 ; mobile.azure.com 
 40.70.161.102 : mobile.azure.com 
 52.113.194.132 ; Microsoft Teams
@@ -32,9 +34,11 @@
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
 161.232.0.0/16 ; e.g. skype.com
+162.159.130.233 ; Discord
 162.159.133.233 ; Discord
 162.159.134.233 ; Discord
 162.159.135.233 ; Discord
 185.199.108.133 ; github.com 
 185.199.110.133 ; github.com
 185.199.111.133 ; github.com
+212.227.17.186 ; imap.gmx.net
