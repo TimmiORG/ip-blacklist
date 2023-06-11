@@ -5,6 +5,7 @@
 8.8.8.8 ; Google DNS
 10.0.0.0/8 ; Private IP
 13.107.42.14 ; Microsoft Update
+13.107.42.16 ; Microsoft Skype / Teams
 13.107.138.8 ; Microsoft Update
 13.107.136.8 ; Microsoft sharepoint
 20.47.115.78 ; Microsoft
