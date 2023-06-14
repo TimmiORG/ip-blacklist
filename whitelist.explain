@@ -4,10 +4,12 @@
 8.8.4.4 ; Google DNS
 8.8.8.8 ; Google DNS
 10.0.0.0/8 ; Private IP
+13.107.21.239 ; Microsoft
 13.107.42.14 ; Microsoft Update
 13.107.42.16 ; Microsoft Skype / Teams
 13.107.138.8 ; Microsoft Update
 13.107.136.8 ; Microsoft sharepoint
+13.248.212.111 ; Signal
 20.47.115.78 ; Microsoft
 20.47.97.238 ; miui / xiaomi.com updates
 20.50.2.7 ; Mircosoft
@@ -20,6 +22,7 @@
 52.113.194.132 ; Microsoft Teams
 52.232.209.85 ; cloudapp.azure.com 
 52.42.214.215 ; firefox account
+76.223.92.165 ; Signal
 95.216.0.0/15 ; e.g. Nextcloud
 144.76.138.23 ; europe.pool.ntp.org 
 172.16.0.0/12 ; Private IP
