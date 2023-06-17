@@ -4,12 +4,14 @@
 8.8.4.4 ; Google DNS
 8.8.8.8 ; Google DNS
 10.0.0.0/8 ; Private IP
+13.107.21.200 ; Microsoft
 13.107.21.239 ; Microsoft
 13.107.42.14 ; Microsoft Update
 13.107.42.16 ; Microsoft Skype / Teams
 13.107.138.8 ; Microsoft Update
 13.107.136.8 ; Microsoft sharepoint
 13.248.212.111 ; Signal
+20.242.39.171 ; Microsoft
 20.3.187.198 ; Microsoft
 20.47.115.78 ; Microsoft
 20.47.97.238 ; miui / xiaomi.com updates
@@ -21,6 +23,7 @@
 40.70.161.7 ; mobile.azure.com 
 40.70.161.102 : mobile.azure.com 
 52.113.194.132 ; Microsoft Teams
+52.123.128.14 ; Nicrosoft
 52.232.209.85 ; cloudapp.azure.com 
 52.42.214.215 ; firefox account
 76.223.92.165 ; Signal
@@ -36,6 +39,9 @@
 142.250.74.14 ; google.com
 142.250.74.78 ; google.com
 142.250.181.202 ; google.com
+142.251.1.100 ; google.com
+142.251.1.102 ; google.com
+142.251.1.138 ; google.com
 142.251.209.138 ; google.com
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
