@@ -21,7 +21,9 @@
 34.98.74.57 ; spotify.com
 34.107.165.5 ; atlas.samsung.com
 34.117.65.55 ; push.services.mozilla.com 
+34.120.208.123 ; mozilla.com
 34.158.0.131 ; spotify.com
+38.145.60.20 ; fedora
 40.70.161.7 ; mobile.azure.com 
 40.70.161.102 : mobile.azure.com 
 52.113.194.132 ; Microsoft Teams
@@ -45,6 +47,7 @@
 142.251.1.102 ; google.com
 142.251.1.138 ; google.com
 142.251.209.138 ; google.com
+152.19.134.198 ; fedora
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
 161.232.0.0/16 ; e.g. skype.com
