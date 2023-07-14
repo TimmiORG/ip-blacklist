@@ -22,15 +22,19 @@
 34.107.165.5 ; atlas.samsung.com
 34.117.65.55 ; push.services.mozilla.com 
 34.120.208.123 ; mozilla.com
+34.149.100.209 ; firefox
 34.158.0.131 ; spotify.com
 38.145.60.20 ; fedora
 40.70.161.7 ; mobile.azure.com 
 40.70.161.102 : mobile.azure.com 
+44.230.55.121 ; firefox
 52.113.194.132 ; Microsoft Teams
 52.123.128.14 ; Nicrosoft
 52.232.209.85 ; cloudapp.azure.com 
 52.42.214.215 ; firefox account
+54.244.114.149 ; morzilla
 76.223.92.165 ; Signal
+85.236.55.6 ; fedora
 95.216.0.0/15 ; e.g. Nextcloud
 144.76.138.23 ; europe.pool.ntp.org 
 172.16.0.0/12 ; Private IP
@@ -58,5 +62,6 @@
 185.199.108.133 ; github.com 
 185.199.110.133 ; github.com
 185.199.111.133 ; github.com
+188.166.16.132 ; openweathermap.org
 212.227.17.186 ; imap.gmx.net
 212.227.17.170 ; imap.gmx.net
