@@ -1,9 +1,7 @@
-0.0.0.0/8
 1.0.0.1 ; Cloudflare DNS
 1.1.1.1 ; Cloudflare DNS
 8.8.4.4 ; Google DNS
 8.8.8.8 ; Google DNS
-10.0.0.0/8 ; Private IP
 13.107.21.200 ; Microsoft
 13.107.21.239 ; Microsoft
 13.107.42.14 ; Microsoft Update
@@ -35,13 +33,9 @@
 54.244.114.149 ; morzilla
 76.223.92.165 ; Signal
 85.236.55.6 ; fedora
-95.216.0.0/15 ; e.g. Nextcloud
 144.76.138.23 ; europe.pool.ntp.org 
-172.16.0.0/12 ; Private IP
-192.168.0.0/16 ; Private IP
 192.168.0.2 ; Private IP
 137.226.34.46 ; ftp.halifax.rwth-aachen.de
-139.47.0.0/16 ; used by customers
 140.82.121.3 ; github.com
 140.82.121.4 ; github.com
 142.250.74.14 ; google.com
@@ -54,7 +48,6 @@
 152.19.134.198 ; fedora
 157.240.20.15 ; facebook
 157.240.20.19 ; facebook
-161.232.0.0/16 ; e.g. skype.com
 162.159.130.233 ; Discord
 162.159.133.233 ; Discord
 162.159.134.233 ; Discord
