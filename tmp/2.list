@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch SSLBL Botnet C2 IP Blacklist (IPs only)              #
-# Last updated: 2023-09-21 05:00:42 UTC                        #
+# Last updated: 2023-09-21 14:10:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
 # For questions please contact sslbl [at] abuse.ch             #
 ################################################################
 #
 # DstIP
+77.91.97.56
 46.35.26.183
 42.51.40.184
 137.220.48.214
@@ -43,4 +44,4 @@
 51.210.170.204
 107.182.228.197
 141.95.11.145
-# END (36) entries
+# END (37) entries
