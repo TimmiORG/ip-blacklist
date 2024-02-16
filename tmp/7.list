@@ -1,7 +1,7 @@
 ; Spamhaus EDROP List 2024/02/16 - (c) 2024 The Spamhaus Project
 ; https://www.spamhaus.org/drop/edrop.txt
-; Last-Modified: Wed, 14 Feb 2024 20:01:16 GMT
-; Expires: Sat, 17 Feb 2024 18:23:44 GMT
+; Last-Modified: Fri, 16 Feb 2024 18:50:05 GMT
+; Expires: Sat, 17 Feb 2024 20:24:06 GMT
 2.56.247.0/24 ; SBL620754
 2.57.122.0/24 ; SBL636050
 2.58.95.0/24 ; SBL639440
@@ -207,6 +207,7 @@
 155.94.235.0/24 ; SBL630025
 156.0.109.0/24 ; SBL623196
 158.46.205.0/24 ; SBL619298
+163.123.141.0/24 ; SBL639719
 163.123.142.0/24 ; SBL639264
 164.215.103.0/24 ; SBL634681
 171.22.28.0/24 ; SBL624088
