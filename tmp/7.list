@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="/assets/application-daee7428cfee9286a1af0f6683e7a59ed79eab09f258500a8a8b2459d0b67464.css" media="all" />
   <script src="/assets/application-6735cd89d3b630361a9dd892655a7e53d698b300d916c4800783d3cb6e87e7e8.js"></script>
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="u9Ehpq1ync7dPkbawo9PmCqDvzL21m5tKrYiJxP_ZsskOekWi7D5FK20VMNLEMGrQgwUkCXwfnpa3W2qhAeieQ" />
+<meta name="csrf-token" content="L0kwbDAf13H7swphaST8tr84_5tziSiXvk3GWurjIAd_qFtih8XaG7K_NufKr-8SNU8zjbXu2D48tvrUqrNTVQ" />
   <meta name="stripe-key" content="pk_live_YzTRajEQxSTzmJXSyQpm8cAR" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="Bar8Bb_erb0n4UmyYaoljayW8AouJTjzdpqGL-xjFNs" />
@@ -406,7 +406,7 @@
     </div>
     <div>
       <form action="/downloads/ip-block-list/accept-terms" method="post">
-        <input type="hidden" name="authenticity_token" id="authenticity_token" value="U_-Cpz-AVdt9ApgCBkJENNry7Ucs7WIK2_HPqP-hdjrMF0oXGUIxAQ2IihuP3coHsn1G5f_Lch2rmoAlaFmyiA" autocomplete="off" />
+        <input type="hidden" name="authenticity_token" id="authenticity_token" value="dwsZ5CVAb1oM_10FYdv-ry6_HTizKJ4TSjKZ-bsBsc4n6nLqkppiMEXzYYPCUO0LpMjRLnVPbrrIyaV3-1HCnA" autocomplete="off" />
         <a role="button" class="btn btn-default" href="/downloads">Cancel</a>
         <button type="submit" class="btn btn-primary">Accept</button>
       </form>
@@ -457,6 +457,6 @@
   ga('send', 'pageview');
 </script>
 <a href="#" id="back-top"></a>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8eb76525b9f06a61","version":"2024.10.5","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"259dc4eadf5b43fbbc95b1d26ba39d7c","b":1}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8eb814ea5dc04151","version":"2024.10.5","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"259dc4eadf5b43fbbc95b1d26ba39d7c","b":1}' crossorigin="anonymous"></script>
 </body>
 </html>
