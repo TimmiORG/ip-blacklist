@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="/assets/application-daee7428cfee9286a1af0f6683e7a59ed79eab09f258500a8a8b2459d0b67464.css" media="all" />
   <script src="/assets/application-6735cd89d3b630361a9dd892655a7e53d698b300d916c4800783d3cb6e87e7e8.js"></script>
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="KWpMpWL-g1lrPQWXidtsldbYXNgJGBTbo9Jc2coNHmBl1e1PU55xU0nDSZLQDmIRE5ZKkACAyuWbIdKClmC0Qg" />
+<meta name="csrf-token" content="VD06LLocJhfOBSvPghrs3KjrUXeNFW-8x9cnyPtlcuLccl_lD13Nj5h_085Tc_jqS-FFi9xDyj1Jho2ANK_NFw" />
   <meta name="stripe-key" content="pk_live_YzTRajEQxSTzmJXSyQpm8cAR" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="Bar8Bb_erb0n4UmyYaoljayW8AouJTjzdpqGL-xjFNs" />
@@ -406,7 +406,7 @@
     </div>
     <div>
       <form action="/downloads/ip-block-list/accept-terms" method="post">
-        <input type="hidden" name="authenticity_token" id="authenticity_token" value="0j259M2tOq_sqKi_LcWSlqsWro7kNFo81PvBSTLSy8Keghge_M3Ipc5W5Lp0EJwSbli4xu2shALsCE8Sbr9h4A" autocomplete="off" />
+        <input type="hidden" name="authenticity_token" id="authenticity_token" value="dLzsP44c3kEm8o1X9FPAhlVuT07luymceKyGE9-9u0T884n2O1012XCIdVYlOtSwtmRbsrTtjB32_SxbEHcEsQ" autocomplete="off" />
         <a role="button" class="btn btn-default" href="/downloads">Cancel</a>
         <button type="submit" class="btn btn-primary">Accept</button>
       </form>
