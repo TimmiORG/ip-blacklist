@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script type="text/javascript">window.NREUM||(NREUM={})
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}}
+(()=>{var e,t,r={122:(e,t,r)=>{"use strict"
   <title>
       Snort - Testing IP Block List Terms and Conditions
   </title>
@@ -11,7 +14,7 @@
   <link rel="stylesheet" href="/assets/application-daee7428cfee9286a1af0f6683e7a59ed79eab09f258500a8a8b2459d0b67464.css" media="all" />
   <script src="/assets/application-6735cd89d3b630361a9dd892655a7e53d698b300d916c4800783d3cb6e87e7e8.js"></script>
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="swRcjMKYj22tGoQVHrGLWUBdBWCWnq9T9FMeFbts805P1BSmJL_YkcMhwYdAHYEdgm6t6ouq076zNF5KOLJoSw" />
+<meta name="csrf-token" content="_lAax9bcQflDc60JV3UEASpHeYmWg-HWSRW3FHC2NFSp_qPtwthhwKrGulBTT6Zii0HKXVVKih_WR--ox9-7Gg" />
   <meta name="stripe-key" content="pk_live_YzTRajEQxSTzmJXSyQpm8cAR" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="Bar8Bb_erb0n4UmyYaoljayW8AouJTjzdpqGL-xjFNs" />
@@ -406,7 +409,7 @@
     </div>
     <div>
       <form action="/downloads/ip-block-list/accept-terms" method="post">
-        <input type="hidden" name="authenticity_token" id="authenticity_token" value="avBBOHujq_kyyeH3nLw9JU-NnojPlprgSO0CAhJAugyWIAkSnYT8BVzypGXCEDdhjb42AtKi5g0PikJdkZ4hCQ" autocomplete="off" />
+        <input type="hidden" name="authenticity_token" id="authenticity_token" value="Z1OZGR0LyweIKKFmiVhgT6dRLVgl1jjE3H0mKhMKwfQw_SAzCQ_rPmGdtj-NYsIsBleejOYfUw1DL36WpGNOug" autocomplete="off" />
         <a role="button" class="btn btn-default" href="/downloads">Cancel</a>
         <button type="submit" class="btn btn-primary">Accept</button>
       </form>
