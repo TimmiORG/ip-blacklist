@@ -20,6 +20,12 @@ https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/php_commenters.ipset
 https://iplists.firehol.org/files/firehol_abusers_1d.netset
+https://iplists.firehol.org/files/botscout_1d.ipset
+https://iplists.firehol.org/files/php_commenters_1d.ipset
+https://iplists.firehol.org/files/php_harvesters_1d.ipset
+https://iplists.firehol.org/files/php_dictionary_1d.ipset
+https://iplists.firehol.org/files/php_spammers_1d.ipset
+https://iplists.firehol.org/files/cybercrime.ipset
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://blocklist.greensnow.co/greensnow.txt
